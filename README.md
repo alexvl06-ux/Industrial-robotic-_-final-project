@@ -51,5 +51,6 @@ Initializing GAZEBO
 
     Finally, in a new terminal, execute the following command:
 		    rosrun rr_open_rover_driver control_rover2
+		    ![WhatsApp Image 2021-01-24 at 12 43 24 AM](https://user-images.githubusercontent.com/77949713/105666907-4fb96980-5ea8-11eb-813f-e0e7dd852cd8.jpeg)
 
 note: You must press triangle key in the joystick if you want to change mode.

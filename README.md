@@ -1,4 +1,4 @@
-### Industrial-robotic-_-final-project
+# Industrial-robotic-_-final-project
 
 ROS Simulation in Gazebo on Melodic about Open Rover robot shows different ways to control it.
 
@@ -18,10 +18,10 @@ Don't forget to use those commands before you try to launch anything on the term
 source /opt/ros/melodic/setup.bash 
 source ~/catkin_ws/devel/setup.bash
 
-### Open Rover in Gazebo
+# Open Rover in Gazebo
 Developed and tested on ROS Melodic/Gazebo 9.
 
-# Previous steps:
+### Previous steps:
 
 1.	Find input’s list:
     ls dev/input

@@ -42,6 +42,8 @@ Initializing GAZEBO
 
     finally, in a new terminal, execute the following command
 		    rosrun rr_openrover_driver control_rover
+		    ![WhatsApp Image 2021-01-24 at 12 42 46 AM](https://user-images.githubusercontent.com/77949713/105666682-cf930400-5ea7-11eb-9df1-24e4d89135a7.jpeg)
+
 
 2.	Moving the robot through a place with obstacles, using two modes: autonomous and manual. The robot will be able to detect obstacles and change route in autounous mode.
     Firstly, start Gazebo (with a place model) and Open Rover model:

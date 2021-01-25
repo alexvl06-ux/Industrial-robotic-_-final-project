@@ -25,6 +25,7 @@ Previous steps:
 
 1.	Find input’s list:
     ls dev/input
+![WhatsApp Image 2021-01-24 at 12 42 18 AM](https://user-images.githubusercontent.com/77949713/105666442-3c59ce80-5ea7-11eb-92c7-e0b0bb3317c7.jpeg)
 
 2.	You will be able to see JS2 input in it. Now you have to set that input like a parameter in joy node:
     rosparam set joy_node/dev dev/input/js2 

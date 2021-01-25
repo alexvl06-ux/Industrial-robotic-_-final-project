@@ -7,7 +7,7 @@ ROS Simulation in Gazebo on Melodic about Open Rover robot shows different ways 
 Get the code:
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
-git clone https://github.com/alexvl06-ux/Industrial-robotic-_-final-project
+git clone https://github.com/alexvl06-ux/Industrial-robotic-_-final-project.git
 
 Build the packages:
 cd ~/catkin_ws

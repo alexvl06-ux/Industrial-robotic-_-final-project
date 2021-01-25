@@ -1,8 +1,8 @@
-# Industrial-robotic-_-final-project
+### Industrial-robotic-_-final-project
 
 ROS Simulation in Gazebo on Melodic about Open Rover robot shows different ways to control it.
 
-##1. Install from source
+##  Install from source
 
 Get the code:
 mkdir -p ~/catkin_ws/src
@@ -18,10 +18,10 @@ Don't forget to use those commands before you try to launch anything on the term
 source /opt/ros/melodic/setup.bash 
 source ~/catkin_ws/devel/setup.bash
 
-Open Rover in Gazebo
+### Open Rover in Gazebo
 Developed and tested on ROS Melodic/Gazebo 9.
 
-Previous steps:
+# Previous steps:
 
 1.	Find input’s list:
     ls dev/input
@@ -35,7 +35,7 @@ Previous steps:
 	    ![WhatsApp Image 2021-01-24 at 12 42 21 AM](https://user-images.githubusercontent.com/77949713/105667023-93ac6e80-5ea8-11eb-8761-add74c676789.jpeg)
 
 
-Initializing GAZEBO
+## Initializing GAZEBO
 
 1.	Driving Open Rover robot in empty world: you will be able to drive the robot with the joystick and change its position directly. 
     Firstly, start Gazebo (empty world) and Open Rover model:
